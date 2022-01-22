@@ -1,3 +1,3 @@
-# landingPage
-This is a custom landing page template for a musician website
+# musicanPage
+This is a musician page with a custom landing page...
 https://raymondtechie.github.io/musicianPage/
