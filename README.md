@@ -1,3 +1,3 @@
-# musicanPage
+# musicianPage
 This is a musician page with a custom landing page...
 https://raymondtechie.github.io/musicianPage/
