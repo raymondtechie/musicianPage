@@ -72,7 +72,7 @@ h1 {
 
 .split.left {
   left:0;
-  background: url('../img/mic.jpeg') center center no-repeat;
+  background: url('https://pt.wikipedia.org/wiki/Little_Dragon#/media/Ficheiro:Little_Dragon_Red_Wall_Snap.jpg') center center no-repeat;
   background-size: cover;
 }
 
@@ -86,7 +86,7 @@ h1 {
 
 .split.right {
   right:0;
-  background: url('../img/prod.jpeg') center center no-repeat;
+  background: url('https://www.clashmusic.com/sites/default/files/field/image/Little%20Dragon%20press%20shot%201_0.jpg') center center no-repeat;
   background-size: cover;
 }
 
